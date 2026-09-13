@@ -1,0 +1,23 @@
+{
+  "binary": "E5P5X5R3.bin",
+  "marlin_version": "2.1.2.8",
+  "environment": "STM32F103RE_creality",
+  "build_result": "SUCCESS",
+  "compiler_warnings_errors": 0,
+  "configuration_checks_passed": 109,
+  "grid": [5, 5],
+  "compiled_wizard_point_count": 25,
+  "compiled_mesh_array_bytes": 100,
+  "compiled_settings_data_bytes": 688,
+  "eeprom_offset": 100,
+  "eeprom_capacity_bytes": 2048,
+  "binary_bytes": 171096,
+  "flash_bytes": 170524,
+  "static_ram_bytes": 19396,
+  "application_offset": "0x08007000",
+  "initial_stack": "0x2000FFD8",
+  "reset_vector": "0x08009151",
+  "sha256": "8be3ccfed4aa0d082ab25210aace16fedd140b366f88230598181a46f27b8b79",
+  "hardware_tested": false
+}
+
